@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output folder
+output/
+
+# VS Code settings (optional)
+.vscode/

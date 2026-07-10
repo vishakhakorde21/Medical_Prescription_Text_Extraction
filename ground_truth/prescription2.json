@@ -1,0 +1,18 @@
+{
+  "patient_name": "[UNCLEAR]",
+  "age": "28 YO",
+  "medications": [
+    {
+      "drug_name": "PONSTAN",
+      "strength": "500 mg",
+      "frequency": "BD",
+      "duration": "3/7"
+    },
+    {
+      "drug_name": "PANMOL",
+      "strength": "1 g",
+      "frequency": "HS",
+      "duration": "3/7"
+    }
+  ]
+}

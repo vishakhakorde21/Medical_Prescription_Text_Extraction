@@ -1,0 +1,24 @@
+{
+  "patient_name": "[UNCLEAR]",
+  "age": "63 YO",
+  "medications": [
+    {
+      "drug_name": "AUGMENTIN",
+      "strength": "625 mg",
+      "frequency": "TDS",
+      "duration": "5/7"
+    },
+    {
+      "drug_name": "Xen - C",
+      "strength": "500mg",
+      "frequency": "[UNCLEAR]",
+      "duration": "1/52"
+    },
+    {
+      "drug_name": "PANADINE",
+      "strength": "1 g",
+      "frequency": "TDS",
+      "duration": "5/7"
+    }
+  ]
+}

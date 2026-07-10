@@ -1,0 +1,24 @@
+{
+  "patient_name": "[UNCLEAR]",
+  "age": "68 YO",
+  "medications": [
+    {
+      "drug_name": "BECASULES",
+      "strength": "1 cap",
+      "frequency": "day",
+      "duration": "2/52"
+    },
+    {
+      "drug_name": "D-PLVS",
+      "strength": "5000 IU",
+      "frequency": "day",
+      "duration": "2/52"
+    },
+    {
+      "drug_name": "KALZANA",
+      "strength": "500 mg",
+      "frequency": "day",
+      "duration": "2/52"
+    }
+  ]
+}

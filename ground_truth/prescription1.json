@@ -1,0 +1,24 @@
+{
+  "patient_name": "[UNCLEAR]",
+  "age": "65 yo",
+  "medications": [
+    {
+      "drug_name": "Sy Gaviscon DS",
+      "strength": "15 ml",
+      "frequency": "TDS",
+      "duration": "5/7"
+    },
+    {
+      "drug_name": "[UNCLEAR]",
+      "strength": "40 mg",
+      "frequency": "BD",
+      "duration": "5/7"
+    },
+    {
+      "drug_name": "DOMITEC",
+      "strength": "10 mg",
+      "frequency": "TDS",
+      "duration": "5/7"
+    }
+  ]
+}
